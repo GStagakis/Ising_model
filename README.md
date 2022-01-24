@@ -19,3 +19,5 @@ Linux Execution:
 #to print the output in a .txt file
 
 !Careful: gridsize * blocksize should be less or equal to N for the algorithms to work properly.Also, it is suggested that the parameters are powers of 2 to avoid unexpected results.
+
+#Matlab files for the graphs are also uploaded as well as bash scripts used to run the programs in the Aristotelis structure.
