@@ -12,10 +12,10 @@ Linux Execution:
 ./cuda_ising1 N K > file.txt
 #to print the output in a .txt file
 
-./cuda_ising2 N gridDimension K > file.txt
+./cuda_ising2 N gridsize K > file.txt
 #to print the output in a .txt file
 
-./cuda_ising1 N gridsize K > file.txt
+./cuda_ising3 N gridsize K > file.txt
 #to print the output in a .txt file
 
 !Careful: gridsize * blocksize should be less or equal to N for the algorithms to work properly.Also, it is suggested that the parameters are powers of 2 to avoid unexpected results.
